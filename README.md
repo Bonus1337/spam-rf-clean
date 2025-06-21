@@ -23,6 +23,8 @@ jupyter notebook spam_rf_clean.ipynb
 
 ## Notebook outline
 
+This project follows a classic NLP classification flow using TF-IDF and Random Forests. It now includes full evaluation metrics for the model's performance on the test set.
+
 | Section | What you’ll learn |
 |---------|-------------------|
 | 1. Load data | Pandas basics, class balance |
@@ -31,7 +33,7 @@ jupyter notebook spam_rf_clean.ipynb
 | 4. Baseline model | Random Forest training & evaluation |
 | 5. Feature selection | Importance > 0.001  |
 | 6. GridSearchCV | Light hyper‑parameter tuning |
-| 7. Final metrics | Accuracy, precision/recall, confusion matrix |
+| 7. Final metrics | Accuracy, precision, recall, F1-score, confusion matrix |
 
 ## Why Random Forest?
 
