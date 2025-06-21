@@ -17,7 +17,7 @@ jupyter notebook spam_rf_clean.ipynb
 
 | File | Purpose |
 |------|---------|
-| `spam_rf_clean_portfolio.ipynb` | Step‑by‑step notebook (data prep → modelling → evaluation) |
+| `spam_rf_clean.ipynb` | Step‑by‑step notebook (data prep → modelling → evaluation) |
 | `requirements.txt`             | Minimal Python dependencies |
 | `class_balance.png`            | Auto‑generated plot of label distribution |
 
